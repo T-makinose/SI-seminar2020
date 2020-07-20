@@ -37,7 +37,7 @@
         ],
         "consequent": [
             "int$2$3"
-        ],　
+        ],
         "regex": true,
         "author": "GroupA",
         "description": "int型になっていない又はint型として不正な値が代入されています"
